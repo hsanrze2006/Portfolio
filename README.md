@@ -1,44 +1,74 @@
-# Hi, I'm Hassan 👋
+# Personal Portfolio Website
 
-🎓 Computer Science Student  
-💻 Aspiring Full-Stack Developer
+Welcome to my personal portfolio! 👋
 
-I'm a Computer Science student passionate about web development and building practical projects.
+This project showcases my web development journey, projects, and skills as a Computer Science student working toward becoming a Full-Stack Developer.
 
-Currently, I'm focusing on strengthening my JavaScript skills and improving my front-end development abilities while working toward becoming a Full-Stack Developer.
+## 🌐 Live Demo
 
-## 🛠️ Technologies & Tools
+**[View My Portfolio](https://hsanrze2006.github.io/Portfolio2nd/)**
 
-- HTML5
-- CSS3
-- Flexbox
-- JavaScript
-- Git & GitHub
+## 📌 About The Project
 
-## 🚀 Featured Projects
+This portfolio website was created to introduce myself, showcase my projects, and demonstrate my front-end development skills.
 
-### 📁 Portfolio Website
-My personal portfolio website showcasing my projects, skills, and background.
+It serves as a central place to explore my work and follow my progress as I continue learning web development.
 
-- **Live Demo:** [View Portfolio](https://hsanrze2006.github.io/Portfolio2nd/)
-- **Source Code:** [Portfolio2nd](https://github.com/hsanrze2006/Portfolio2nd)
+## ✨ Features
 
-### 📚 Book List Manager
-A JavaScript project for managing a list of books.
+- Responsive website layout
+- Personal introduction and About Me section
+- Projects showcase
+- Skills presentation
+- Clean and organized user interface
+- Interactive elements powered by JavaScript
 
-- **Source Code:** [Book List](https://github.com/hsanrze2006/book-list)
+## 🛠️ Technologies Used
 
-## 📚 Currently Learning
+- **HTML5** — Page structure and semantic markup
+- **CSS3** — Styling, layouts, Flexbox, and responsive design
+- **JavaScript** — Interactive functionality and DOM manipulation
+- **Git & GitHub** — Version control and project hosting
+- **GitHub Pages** — Website deployment
 
-- JavaScript and DOM Manipulation
-- Responsive Web Design
-- Writing cleaner, more maintainable code
-- Building interactive web applications
+## 🚀 Getting Started
 
-## 🎯 My Goal
+To run the project locally:
 
-To become a skilled Full-Stack Developer by learning consistently, building real-world projects, and improving my problem-solving skills.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/hsanrze2006/Portfolio2nd.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd Portfolio2nd
+   ```
+
+3. Open `index.html` in your browser.
+
+## 📂 Project Structure
+
+The project contains the HTML, CSS, and JavaScript files used to build the portfolio, along with its supporting assets.
+
+## 🎯 Future Improvements
+
+- Improve accessibility and responsive behavior
+- Refine the user interface and user experience
+- Add new projects as I develop my skills
+- Continue improving code quality and maintainability
+
+## 👨‍💻 About Me
+
+I'm a Computer Science student passionate about web development and problem-solving. I'm currently strengthening my JavaScript skills and working toward becoming a Full-Stack Developer.
+
+## 📬 Connect With Me
+
+- **GitHub:** [@hsanrze2006](https://github.com/hsanrze2006)
+- **Portfolio:** [Visit Website](https://hsanrze2006.github.io/Portfolio2nd/)
 
 ---
 
-Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my repository!

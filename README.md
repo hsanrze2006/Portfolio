@@ -41,7 +41,6 @@ portfolio/
 
    ```bash
    git clone https://github.com/hsanrze2006/portfolio.git
-   cd portfolio
    ```
 
 2. Open the project folder.
